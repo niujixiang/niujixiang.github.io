@@ -3,13 +3,22 @@
         <title>All Posts - My New Hugo Site</title>
         <link>http://example.org/posts/</link>
         <description>All Posts | My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 28 Jul 2023 15:27:03 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>First_post</title>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>niujixiang.s@qq.com (Qingm)</managingEditor>
+            <webMaster>niujixiang.s@qq.com (Qingm)</webMaster><lastBuildDate>Fri, 28 Jul 2023 22:50:03 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>博客小记（其二）</title>
+    <link>http://example.org/posts/second_post/</link>
+    <pubDate>Fri, 28 Jul 2023 22:50:03 &#43;0800</pubDate>
+    <author>qingm</author>
+    <guid>http://example.org/posts/second_post/</guid>
+    <description><![CDATA[说起来好笑，从昨天打算做个自己的网站后，今天早八晚十才勉强搭建起来。这期间多少无言挠头，推到重做，但也总算没有失望，做到了总归是一个好的起点。 图片和链接就下次再加吧，如果我还会一直维护和改进的话。]]></description>
+</item>
+<item>
+    <title>博客小记（其一）</title>
     <link>http://example.org/posts/first_post/</link>
     <pubDate>Fri, 28 Jul 2023 15:27:03 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>qingm</author>
     <guid>http://example.org/posts/first_post/</guid>
-    <description><![CDATA[#this is my fist_post ##&ldquo;这是我的第一篇文章&rdquo;]]></description>
+    <description><![CDATA[#this is my fist_post# 这是一个开始，也可能是一个结束！]]></description>
 </item>
 </channel>
 </rss>
