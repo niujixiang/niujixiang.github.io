@@ -4,13 +4,25 @@
         <link>http://example.org/posts/</link>
         <description>All Posts | My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>niujixiang.s@qq.com (Qingm)</managingEditor>
-            <webMaster>niujixiang.s@qq.com (Qingm)</webMaster><lastBuildDate>Sat, 29 Jul 2023 14:33:05 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>niujixiang.s@qq.com (Qingm)</webMaster><lastBuildDate>Sun, 30 Jul 2023 08:58:26 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>崩坏3【林海绮律】音乐会</title>
+    <link>http://example.org/fourth_post/</link>
+    <pubDate>Sun, 30 Jul 2023 08:58:26 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/fourth_post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/%e6%9e%97%e6%b5%b7%e7%bb%ae%e5%be%8b.png" referrerpolicy="no-referrer">
+            </div><p><strong>昨天晚上崩三官方的线上音乐会，依旧震撼破防，特此推荐</strong>😄</p>]]></description>
+</item>
+<item>
     <title>博客小记（其三）</title>
     <link>http://example.org/third-post/</link>
     <pubDate>Sat, 29 Jul 2023 14:33:05 &#43;0800</pubDate>
     <author>Qingm</author>
     <guid>http://example.org/third-post/</guid>
-    <description><![CDATA[本次网页新增：用户评论、视频音乐图片功能。 请点击查看🎉🎉🎉
+    <description><![CDATA[<div class="featured-image">
+                <img src="/2021092217442572336.png" referrerpolicy="no-referrer">
+            </div>本次网页新增：用户评论、视频音乐图片功能。 请点击查看🎉🎉🎉
 以下内容来自B站up主：崩坏3第一偶像爱酱
 崩坏三周年庆 ]]></description>
 </item>
