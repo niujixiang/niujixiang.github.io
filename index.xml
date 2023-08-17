@@ -1,30 +1,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>My New Hugo Site</title>
-        <link>http://example.org/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>niujixiang.s@qq.com (Qingm)</managingEditor>
-            <webMaster>niujixiang.s@qq.com (Qingm)</webMaster><lastBuildDate>Sun, 06 Aug 2023 08:58:26 &#43;0800</lastBuildDate>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>《斯坦福高效睡眠法》</title>
-    <link>http://example.org/second_post/</link>
-    <pubDate>Sun, 06 Aug 2023 08:58:26 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/second_post/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/%e6%96%af%e5%9d%a6%e7%a6%8f%e9%ab%98%e6%95%88%e7%9d%a1%e7%9c%a0.webp" referrerpolicy="no-referrer">
-            </div><p><strong>炎炎夏日，总感觉做什么都困的不行，干什么也没力气，睡不好更没心情效率的进行学习，正好看到有人推荐此书，特此分享</strong>😄</p>]]></description>
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>This is my cool site</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>niujixiang.s@qq.com (Qingm)</managingEditor>
+      <webMaster>niujixiang.s@qq.com (Qingm)</webMaster><lastBuildDate>Sun, 06 Aug 2023 08:58:26 &#43;0800</lastBuildDate>
+      <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+  <title>《斯坦福高效睡眠法》</title>
+  <link>http://example.org/second_post/</link>
+  <pubDate>Sun, 06 Aug 2023 08:58:26 &#43;0800</pubDate>
+  <author>Qingm</author>
+  <guid>http://example.org/second_post/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/%e6%96%af%e5%9d%a6%e7%a6%8f%e9%ab%98%e6%95%88%e7%9d%a1%e7%9c%a0.webp" referrerpolicy="no-referrer">
+      </div><p><strong>炎炎夏日，总感觉做什么都困的不行，干什么也没力气，睡不好更没心情效率的进行学习，正好看到有人推荐此书，特此分享</strong>😄</p>]]></description>
 </item>
 <item>
-    <title>崩坏3【林海绮律】音乐会</title>
-    <link>http://example.org/frist_post/</link>
-    <pubDate>Sun, 30 Jul 2023 08:58:26 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/frist_post/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/%e6%9e%97%e6%b5%b7%e7%bb%ae%e5%be%8b.png" referrerpolicy="no-referrer">
-            </div><p><strong>昨天晚上崩三官方的线上音乐会，依旧震撼破防，特此推荐</strong>😄</p>]]></description>
+  <title>崩坏3【林海绮律】音乐会</title>
+  <link>http://example.org/frist_post/</link>
+  <pubDate>Sun, 30 Jul 2023 08:58:26 &#43;0800</pubDate>
+  <author>Qingm</author>
+  <guid>http://example.org/frist_post/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/%e6%9e%97%e6%b5%b7%e7%bb%ae%e5%be%8b.png" referrerpolicy="no-referrer">
+      </div><p><strong>昨天晚上崩三官方的线上音乐会，依旧震撼破防，特此推荐</strong>😄</p>]]></description>
 </item>
 </channel>
 </rss>
