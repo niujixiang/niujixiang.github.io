@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>第一个静态网页</title>
+</head>
+<body>
+    
+    <h1>一级标题</h1>
+    <h2>二级标题</h2>
+    <h3>三级标题</h3>
+    <h4>四级标题</h4>
+    <h5>五级标题</h5>
+    <h6>六级标题</h6>
+
+    <p>这是段落符号，<br>单换行符  </p>
+    <p>下面是分割线演示  </p>
+    <hr color="orange" width="300px" size="10px" align="left" />
+     
+    <p> img 标签定义HTML页面中的图像属性：<br>
+        ①src：路径（图片地址与名字）<br>
+        ②alt：规定图像的替代文本<br>
+        ③width：规定图像的宽度<br>
+        ④height：规定图像的高度<br>
+        ◎title：鼠标悬停在图片上给予提示</p>
+    <img src="https://media.st.dl.eccdnx.com/steam/apps/1143810/capsule_616x353.jpg?t=1692123340" width="400px">
+    
+    <p>下面是超链接，用 a 来表达</p>
+    <a href="https://niujixiang.github.io">Qingm的博客</a>
+
+    <p>常用的文本标签及描述<br>
+        <em> em 定义着重文字</em><br>
+        <b> b 定义粗体文本</b><br>
+        <i> i 定义斜体字</i><br>
+        <strong>strong定义加重语气</strong><br>
+        <del>del定义删除字</del><br>
+        <span>span元素没有特定的含义</span></p>
+
+    <p>有序列表是一列项目，列表项目使用数字进行标记。有序列表始于ol标签。每个列表项始于li标签。</p>
+    <p> ol 的属性type拥有的选项:<br>
+        ◎1表示列表项目用数字标号（1,2,3..）<br>
+        ②a表示列表项目用小写字母标号（a,b，C.）<br>
+        ③A表示列表项目用大写字母标号（A,B.C..）<br>
+        ④i表示列表项目用小写罗马数字标号（i,ii,ii...）<br>
+        ◎1表示列表项目用大写罗马数字标号（lI！！.）</p>
+    <ol>
+        <li>sunwukong</li>
+        <li>tangseng
+            <ol type="a">
+                <li>jinchanzi</li>
+                <li>datangxiandi</li>
+            </ol>
+        </li>
+    </ol>
+    <p>无序列表始于ul标签。每个列表项始于li标签。disc默认实心圆 circle空心圆 square小方抉 none不显示</p>
+    <p>快速生成ul+li的布局：ul＞li*5（数字根据自己的需要的I数量修改）</p>
+    <ul type="circle">
+        <li>啊好看哇好</li>
+        <li>哈伦裤我电话</li>
+    </ul>
+    <p>表格组成与特点,表格：table 行：tr单元格（列）：td  <br>
+        快速生成表格结构：table>tr*2>td*5｛这里填内容｝<br>
+        表格属性①border：设置表格的边框  width：设置表格的宽度 height：设置表格的高度</p>
+    <table border="2" width="300" height="200">
+        <tr>
+            <td>单元格</td>
+            <td>单元格</td>
+            <td>单元格</td>
+        </tr>
+        <tr>
+            <td>单元格</td>
+            <td>单元格</td>
+            <td>单元格</td>
+        </tr>
+        <tr>
+            <td>单元格</td>
+            <td>单元格</td>
+            <td>单元格</td>
+        </tr>
+    </table>
+    <p>单元格合并，水平合并(保左删右)：colspan   垂直合并（保上删下）：rowspan</p>
+    <table border="2" width="500" height="200">
+        <tr>
+            <td>单元格1</td>
+            <td>单元格2</td>
+            <td>单元格3</td>
+            <td>单元格4</td>
+            <td>单元格5</td>
+        </tr>
+        <tr>
+            <td colspan="2">单元格6单元格7</td>
+            <td>单元格8</td>
+            <td>单元格9</td>
+            <td>单元格10</td>
+        </tr>
+        <tr>
+            <td>单元格11</td>
+            <td>单元格12</td>
+            <td>单元格13</td>
+            <td>单元格14</td>
+            <td rowspan="2">单元格15单元格20</td>
+        </tr>
+        <tr>
+            <td>单元格16</td>
+            <td>单元格17</td>
+            <td>单元格18</td>
+            <td>单元格19</td>
+        </tr>
+        <tr>
+            <td>单元格21</td>
+            <td>单元格22</td>
+            <td>单元格23</td>
+            <td>单元格24</td>
+            <td>单元格25</td>
+        </tr>
+    </table>
+
+    <p>form 用户交互<br> 
+        属性说明<br>
+        action服务器地址  name表单名称<br>
+        method中Get和Post的区别 数据提交方式，get把提交的数据url可以看到，post看不到
+        get一般用于提交少量数据，post用来提交大量数据</p>
+    <p>一个完整的表单包含三个基本组成部分：表单标签form、表单域input、表单按钮button </p>
+
+    <form>
+        用户名: <input type="text" >
+        密码：<input type="password">
+        <input type="submit" value="登录/注册">
+        <button>这是按钮</button>
+    </form>
+
+    <h1>div容器标签</h1>
+    <p>H5新标签元素 <br>
+        <ol type="a">
+            <li>header 头部</li>
+            <li>nav导航</li>
+            <li>section>定义文档中的节，比如章节、页眉、页脚</li>
+            <li>aside> 侧边栏</li>
+            <li>footer>脚部</li>
+            <li>article>代表一个独立的、完整的相关内容块，例如一篇完整的论坛帖子，一篇博客文章，一个用户评论</li>
+        </ol>
+        </p>
+    <div>
+        <ul>
+            <li>导航1</li>
+            <li>导航2</li>
+            <li>导航3</li>
+        </ul>
+    </div>
+    <div>
+        <img src="https://i1.hdslb.com/bfs/archive/b2d5f442a3721ad863613265f63d6ae197929e66.jpg@672w_378h_1c_!web-home-common-cover.avif" width="400">
+    </div>
+    <div id="header"></div>
+    <div id="nav">#导航</div>
+    <div class="article">
+        <div id="section">子文章</div>
+    </div>
+    <div id="silder">侧边栏</div>
+    <div id="footer">底部</div>
+
+</body>
+</html>
