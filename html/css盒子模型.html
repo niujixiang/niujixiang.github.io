@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box1 {
+            width: 500px;
+            height: 300px;
+            padding: 50px;
+            background-image: url("https://picx.zhimg.com/80/v2-7ee6f104979814d2bf420461e3872475_720w.webp?source=1940ef5c");
+            color: white;
+            font-size: 30px;
+            background-size: cover;
+            margin: 5px;
+            border: 5px solid black;
+            text-align:center;
+            vertical-align: middle;
+        }
+
+        .box5 {
+            width: 500px;
+            height: 300px;
+            background-color: aquamarine;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .box2 {
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            display: flex;
+            margin: 20px;
+        }
+
+        .box3 {
+            width: 100px;
+            height: 100px;
+            background-color: black;
+            display: flex;
+            margin: 20px;
+
+        }
+
+        .box4 {
+            width: 100px;
+            height: 100px;
+            background-color: white;
+            display: flex;
+            margin: 20px;
+
+        }
+    </style>
+</head>
+
+<body>
+
+    <h3>盒子模型概念</h3>
+    <p>所有HTML元素可以看作盒子，在CSS中，"boxmodel”这一术语是用来设计和布局时使用
+        CSS盒模型本质上是一个盒子，封装周围的HTML元素，它包括：
+        外边距（margin），边框（border），内边距（padding），和实际内容（content）</p>
+    <ul>
+        <li>Margin（外边距）-清除边框外的区域，外边距是透明的</li>
+        <li>Border（边框）-围绕在内边距和内容外的边框(像素 线的类型 颜色)</li>
+        <li>Padding（内边距）-清除内容周围的区域，内边距是透明的.（两个值：第一个值上下，第二个值左右）</li>
+        <li>Content（内容）-盒子的内容，显示文本和图像</li>
+    </ul>
+    <p>如果把盒子模型看作是一个生活中的快递，那么内容部分等同于你买的实物，内边距等同于快递盒子中的泡
+        沫，边框等同于快递盒子，外边距等同于两个快递盒子之间的距离</p>
+
+    <div class="box1">我是演示文档</div>
+    <p>我是一段演示文字</p>
+
+    <hr color="orange" width="600px" size="10px" align="left">
+
+    <h3>弹性盒子模型</h3>
+    <p>定义:弹性盒子是CSS3的一种新的布局模式 CSS3弹性盒是一种当页面需要适应不同的屏幕大小以及设备类型时确保元素拥有恰当的行为的布局方式
+        引入弹性盒布局模型的目的是提供一种更加有效的方式来对一个容器中的子元素进行排列、对齐和分配空白空间</p>
+    <p>CSS3弹性盒内容 弹性盒子由弹性容器（Flexcontainer）和弹性子元素（Flexitem）组成 弹性容器通过设置display属性的值为flex将其定义为弹性容器
+        弹性容器内包含了一个或多个弹性子元素<br>
+        温馨提示:<br>
+        弹性容器外及弹性子元素内是正常渲染的。弹性盒子只定义了弹性子元素如何在弹性容器内布局</p>
+    <p>display属性<br>
+        display:flex；开启弹性盒,属性设置后子元素默认水平排列<br>
+        flex-direction属性<br>
+        语法<br>
+        flex-direction属性指定了弹性子元素在父容器中的位置<br>
+        1 flex-direction: row | row-reverse | column | column-reverse<br>
+        row：横向从左到右排列（左对齐），默认的排列方式<br>
+        row-reverse：反转横向排列（右对齐，从后往前排，最后一项排在最前面<br>
+        column：纵向排列<br>
+        column-reverse：反转纵向排列，从后往前排，最后一项排在最上面</p>
+
+    <div class="box5">
+        <div class="box2"></div>
+        <div class="box3"></div>
+        <div class="box4"></div>
+    </div>
+
+
+</body>
+
+</html>

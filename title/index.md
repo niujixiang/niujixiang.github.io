@@ -2,6 +2,15 @@
 
 
 
+## 博客小记（十六）
+*date: 2023-08-18*
+
+<p>铃芽之旅并没有想象中的那么好看，
+想看的话，可以点击<a href="http://app.dodoge.me/bangumi/8648/play/1/1/">《铃芽之旅》</a>观看。</p>
+{{< figure src="https://www.enjoying3d.com/upload/ck/4/44951/images/model/1252576/20230331171226-2.jpg">}}
+
+---
+
 ## 博客小记（十五）
 *date: 2023-08-17*
 

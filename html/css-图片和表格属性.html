@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box1{
+            width: 500px;
+            height: 300px;
+            background-color: aqua;
+        }
+        .box2{
+            width: 500px;
+            height: 300px;
+            background-image: url("https://picx.zhimg.com/80/v2-7ee6f104979814d2bf420461e3872475_720w.webp?source=1940ef5c")
+        }
+        .box3{
+            width: 500px;
+            height: 300px;
+            background-image: url("https://pic1.zhimg.com/80/v2-585754b4ab4d49f480b833cbbbf4839f_720w.webp?source=1940ef5c");
+            background-size: cover;
+        }
+        .box4{
+            text-align: center;
+            background-color: aqua;
+        }
+        table{
+            border: 3px solid black;
+            border-collapse: collapse;
+            
+        }
+        td{
+            background-color: aquamarine;
+        }
+
+    </style>
+</head>
+<body>
+   
+    <h2>css元素属性介绍</h2>
+    <h4>CSS背景属性主要有以下几个</h4>
+
+    <div class="box1"></div>
+    <div class="box2"></div>
+    <div class="box3"></div> 
+
+    <table border="2" width="500" height="200">
+        <tr class="box4">
+            <td>属性</td>
+            <td>描述</td>
+        </tr>
+        <tr>
+            <td>background-color</td>
+            <td>设置背景图片</td>
+        </tr>
+        <tr>
+            <td>background-image</td>
+            <td>设置背景图片显示位置</td>
+        </tr>
+        <tr>
+            <td>background-position</td>
+            <td>设置背景图片显示位置</td>
+        </tr>
+        <tr>
+            <td>background-repeat</td>
+            <td>设置背景图片如何填充</td>
+        </tr>
+        <tr>
+            <td>background-size</td>
+            <td>设置背景图片大小属性</td>
+        </tr>
+    </table>
+
+    
+    <h4>background-repeat属性</h4>
+    <table border="2" width="500" height="200">
+        <tr class="box4">
+            <td>值</td>
+            <td>说明</td>
+        </tr>
+        <tr>
+            <td>repeat</td>
+            <td>默认值</td>
+        </tr>
+        <tr>
+            <td>repeat-x</td>
+            <td>只向水平方向平铺</td>
+        </tr>
+        <tr>
+            <td>repeat-y</td>
+            <td>只向垂直方向平铺</td>
+        </tr>
+        <tr>
+            <td>no-repeat</td>
+            <td>不平铺</td>
+        </tr>
+    </table>
+        <h4>background-size属性</h4>
+        <table border="2" width="500" height="200">
+            <tr class="box4">
+                <td>值</td>
+                <td>说明</td>
+            </tr>
+            <tr>
+                <td>length</td>
+                <td>设置背景图片的宽度和高度，第一个值宽度，第二个值高度，如果只是设置一个，第二个值auto</td>
+            </tr>
+            <tr>
+                <td>percentage</td>
+                <td>计算相对位置区域的百分比，第一个值宽度，第二个值高度，如果只是设置一个，第二个值auto</td>
+            </tr>
+            <tr>
+                <td>cover</td>
+                <td>保持图片纵横比并将图片缩放成完全覆盖背景区域的最小大小</td>
+            </tr>
+            <tr>
+                <td>ncontain</td>
+                <td>保持图片纵横比并将图像缩放成适合背景定位区域的最大大小</td>
+            </tr>      
+        </table>
+        <h4>background-position属性</h4>
+        <p>该属性设置背景图像的起始位置，其默认值是：0%,0%</p>
+        <table border="2" width="500" height="200">
+            <tr class="box4">
+                <td>值</td>
+                <td>说明</td>
+            </tr>
+            <tr>
+                <td>left top</td>
+                <td>左上角</td>
+            </tr>
+            <tr>
+                <td>left center</td>
+                <td>左中</td>
+            </tr>
+            <tr>
+                <td>left bottom</td>
+                <td>左下</td>
+            </tr>
+            <tr>
+                <td>right top</td>
+                <td>右上角</td>
+            </tr>
+            <tr>
+                <td>right center</td>
+                <td>右中</td>
+            </tr>
+            <tr>
+                <td>right bottom</td>
+                <td>右下</td>
+            </tr>
+            <tr>
+                <td>center top</td>
+                <td>中上</td>
+            </tr>
+            <tr>
+                <td>center center</td>
+                <td>中中</td>
+            </tr>
+            <tr>
+                <td>center bottom</td>
+                <td>中下</td>
+            </tr>
+        </table> 
+    <a href="css-文字属性.html">css-文字属性</a>
+
+</body>
+</html>

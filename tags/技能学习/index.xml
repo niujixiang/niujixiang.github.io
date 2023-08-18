@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - My New Hugo Site</title>
-        <link>http://example.org/posts/</link>
-        <description>All Posts | My New Hugo Site</description>
+        <title>技能学习 - Tag - My New Hugo Site</title>
+        <link>http://example.org/tags/%E6%8A%80%E8%83%BD%E5%AD%A6%E4%B9%A0/</link>
+        <description>技能学习 - Tag - My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>niujixiang.s@qq.com (Qingm)</managingEditor>
-            <webMaster>niujixiang.s@qq.com (Qingm)</webMaster><lastBuildDate>Fri, 18 Aug 2023 21:52:00 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>niujixiang.s@qq.com (Qingm)</webMaster><lastBuildDate>Fri, 18 Aug 2023 21:52:00 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/%E6%8A%80%E8%83%BD%E5%AD%A6%E4%B9%A0/" rel="self" type="application/rss+xml" /><item>
     <title>前端学习之路</title>
     <link>http://example.org/third-post/</link>
     <pubDate>Fri, 18 Aug 2023 21:52:00 &#43;0800</pubDate>
@@ -18,26 +18,6 @@
 常用元素引用，点击可打开查看 &lt;p&gt; img 标签定义HTML页面中的图像属性：&lt;br&gt; ①src：路径（图片地址与名字）&lt;br&gt; ②alt：规定图像的替代文本&lt;br&gt; ③width：规定图像的宽度&lt;br&gt; ④height：规定图像的高度&lt;br&gt; ◎title：鼠标悬停在图片上给予提示&lt;/p&gt; &lt;img src=&quot;https://media.st.dl.eccdnx.com/steam/apps/1143810/capsule_616x353.jpg?t=1692123340&quot; width=&quot;400px&quot;&gt; &lt;p&gt;下面是超链接，用 a 来表达&lt;/p&gt; &lt;a href=&quot;https://niujixiang.github.io&quot;&gt;Qingm的博客&lt;/a&gt; 呈现的效果如下：
 有序和无序列表，点击可打开查看 动物 植物 苹果 香蕉 无机物 啊好看哇好 哈伦裤我电话 观看交换空间环境 哈共和国 呈现的效果如下：
 表格属性，点击可打开查看 &lt;p&gt;表格组成与特点,表格：table 行：tr单元格（列）：td &lt;br&gt; 快速生成表格结构：table&gt;tr*2&gt;td*5｛这里填内容｝&lt;br&gt; 表格属性①border：设置表格的边框 width：设置表格的宽度 height：设置表格的高度&lt;/p&gt; &lt;table border=&quot;2&quot; width=&quot;300&quot; height=&quot;200&quot;&gt; &lt;tr&gt; &lt;td&gt;单元格&lt;/td&gt; &lt;td&gt;单元格&lt;/td&gt; &lt;td&gt;单元格&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;单元格&lt;/td&gt; &lt;td&gt;单元格&lt;/td&gt; &lt;td&gt;单元格&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;单元格&lt;/td&gt; &lt;td&gt;单元格&lt;/td&gt; &lt;td&gt;单元格&lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;p&gt;单元格合并，水平合并(保左删右)：colspan 垂直合并（保上删下）：rowspan&lt;/p&gt; &lt;table border=&quot;2&quot; width=&quot;500&quot; height=&quot;200&quot;&gt; &lt;tr&gt; &lt;td&gt;单元格1&lt;/td&gt; &lt;td&gt;单元格2&lt;/td&gt; &lt;td&gt;单元格3&lt;/td&gt; &lt;td&gt;单元格4&lt;/td&gt; &lt;td&gt;单元格5&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td colspan=&quot;2&quot;&gt;单元格6单元格7&lt;/td&gt; &lt;td&gt;单元格8&lt;/td&gt; &lt;td&gt;单元格9&lt;/td&gt; &lt;td&gt;单元格10&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;单元格11&lt;/td&gt; &lt;td&gt;单元格12&lt;/td&gt; &lt;td&gt;单元格13&lt;/td&gt; &lt;td&gt;单元格14&lt;/td&gt; &lt;td rowspan=&quot;2&quot;&gt;单元格15单元格20&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;单元格16&lt;/td&gt; &lt;td&gt;单元格17&lt;/td&gt; &lt;td&gt;单元格18&lt;/td&gt; &lt;td&gt;单元格19&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;单元格21&lt;/td&gt; &lt;td&gt;单元格22&lt;/td&gt; &lt;td&gt;单元格23&lt;/td&gt; &lt;td&gt;单元格24&lt;/td&gt; &lt;td&gt;单元格25&lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; 呈现的效果如下：]]></description>
-</item>
-<item>
-    <title>《斯坦福高效睡眠法》</title>
-    <link>http://example.org/second_post/</link>
-    <pubDate>Sun, 06 Aug 2023 08:58:26 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/second_post/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/%e6%96%af%e5%9d%a6%e7%a6%8f%e9%ab%98%e6%95%88%e7%9d%a1%e7%9c%a0.webp" referrerpolicy="no-referrer">
-            </div><p><strong>炎炎夏日，总感觉做什么都困的不行，干什么也没力气，睡不好更没心情效率的进行学习，正好看到有人推荐此书，特此分享</strong>😄</p>]]></description>
-</item>
-<item>
-    <title>崩坏3【林海绮律】音乐会</title>
-    <link>http://example.org/frist_post/</link>
-    <pubDate>Sun, 30 Jul 2023 08:58:26 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/frist_post/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/%e6%9e%97%e6%b5%b7%e7%bb%ae%e5%be%8b.png" referrerpolicy="no-referrer">
-            </div><p><strong>昨天晚上崩三官方的线上音乐会，依旧震撼破防，特此推荐</strong>😄</p>]]></description>
 </item>
 </channel>
 </rss>
