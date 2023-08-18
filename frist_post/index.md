@@ -61,9 +61,3 @@
  
 --欢迎留言--
 
-
----
-
-> Author:   
-> URL: http://example.org/frist_post/  
-
