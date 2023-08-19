@@ -269,6 +269,162 @@
 * [《图片和表格》](/html/css-图片和表格属性.html)
 * [《文字属性》](/html/css-文字属性.html)
 * [《盒子模型》](/html/css盒子模型.html)
+* [《定位和圆角和阴影》](/html/定位-圆角和阴影.html)
+* [《css动画》](/html/动画.html)
+{{< admonition type=tip title="css动画，点击可打开查看" open=false >}}
+
+    <style>
+        .box1{
+            width: 200px;
+            height: 200px;
+            background-color: red;
+            animation: my1donghua 5s linear 0s infinite;
+        }
+        .box1:hover{
+            animation-play-state: paused;
+        }
+        @keyframes my1donghua{
+            0%{
+               width: 200px;
+               height: 200px;
+               background-color: red;
+            }
+            25%{
+                width: 600px;
+                height: 200px;
+                background-color: green;
+            }
+            50%{
+                width: 600px;
+                height: 400px;
+                background-color: green;
+                background-image: url("https://picx.zhimg.com/80/v2-23d671bf74a246c54b1256bd2322d461_720w.webp?source=1940ef5c");
+                background-size: cover;
+            }
+            75%{
+                width: 200px;
+                height: 400px;
+                background-color: green;
+            }
+            100%{
+                width: 200px;
+                height: 200px;
+                background: red;
+            }
+        }
+        .box2{
+            width: 500px;
+            height: 400px;
+            margin: 40px auto;
+            background-color: #2b92d4;
+            border-radius: 20px;
+            box-shadow: 0 1px 2px rgba (0, 0, 0, 3);
+            animation: breathe 2700ms ease-in-out infinite alternate;
+        }
+        @keyframes breathe {
+            0%{
+                opacity: 0.2;
+                box-shadow: 0 1px 2px rgba (255, 255, 255, 0.1)
+            }
+            50%{
+                opacity: 0.5;
+                box-shadow: 0 1px 2px rgba (18, 190, 84, 0.76)
+            }
+            100%{
+                opacity: 1;
+                box-shadow: 0 1px 30px rgba (59, 255, 255, 1)
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="box1"></div>
+    <h3>呼吸效果</h3>
+    <div class="box2"></div>
+
+{{< /admonition >}}
+呈现的效果如下：
+
+{{< raw >}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box1{
+            width: 200px;
+            height: 200px;
+            background-color: red;
+            animation: my1donghua 5s linear 0s infinite;
+        }
+        .box1:hover{
+            animation-play-state: paused;
+        }
+        @keyframes my1donghua{
+            0%{
+               width: 200px;
+               height: 200px;
+               background-color: red;
+            }
+            25%{
+                width: 600px;
+                height: 200px;
+                background-color: green;
+            }
+            50%{
+                width: 600px;
+                height: 400px;
+                background-color: green;
+                background-image: url("https://picx.zhimg.com/80/v2-23d671bf74a246c54b1256bd2322d461_720w.webp?source=1940ef5c");
+                background-size: cover;
+            }
+            75%{
+                width: 200px;
+                height: 400px;
+                background-color: green;
+            }
+            100%{
+                width: 200px;
+                height: 200px;
+                background: red;
+            }
+        }
+        .box2{
+            width: 300px;
+            height: 300px;
+            margin: 20px auto;
+            background-color: #2b92d4;
+            border-radius: 20px;
+            box-shadow: 0 1px 2px rgba (0, 0, 0, 3);
+            animation: breathe 2700ms ease-in-out infinite alternate;
+        }
+        @keyframes breathe {
+            0%{
+                opacity: 0.2;
+                box-shadow: 0 1px 2px rgba (255, 255, 255, 0.1)
+            }
+            50%{
+                opacity: 0.5;
+                box-shadow: 0 1px 2px rgba (18, 190, 84, 0.76)
+            }
+            100%{
+                opacity: 1;
+                box-shadow: 0 1px 30px rgba (59, 255, 255, 1)
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="box1"></div>
+    <h3>呼吸效果:</h3>
+    <div class="box2"></div>
+        
+</body>
+</html>
+
+{{< /raw >}}
 
 
 ## 三、未完待续
