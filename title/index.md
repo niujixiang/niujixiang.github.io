@@ -1,6 +1,13 @@
 # 
 
+## 博客小记（十七）
+*date: 2023-08-25*
 
+<div display = "flex">
+<iframe width="550px" height="400px"  src="/星空快闪.mov" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
+
+---
 
 ## 博客小记（十六）
 *date: 2023-08-18*
