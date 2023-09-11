@@ -1,12 +1,25 @@
 # 
 
+
+## 博客小记（十八）
+*date: 2023-09-10*
+
+**我们不能要求大自然随时为我们展现它的美，只能奢望它展现美的时候，我们恰好在那儿。——【生命奇观】墨脱森林**
+
+*静下来的时候不妨看看大自然的神奇和灵动，类似的推荐有[《地球脉动》](https://www.bilibili.com/bangumi/play/ss20302?spm_id_from=333.337.0.0)、[《蓝色星球》](https://www.bilibili.com/bangumi/play/ss43870?spm_id_from=333.337.0.0)……*
+
+{{< bilibili BV1ej41117VW >}}
+
+---
+
 ## 博客小记（十七）
 *date: 2023-08-25*
 
-<div display = "flex">
-<iframe width="550px" height="400px"  src="/星空快闪.mov" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</div>
+他预见过自己的死亡，和巨人同行过，也帮桃源镇重建，还用三年的苦力换一个美丽的相见。虽然那仍可能是个童话故事，但他真的抓到了一条大鱼。——成年人的浪漫《大鱼》
 
+{{< bilibili BV1D34y1N7wL >}}
+
+<img src="https://ts1.cn.mm.bing.net/th/id/R-C.5335640180acc8b584235424e7dad694?rik=V4gorNj4rD%2fAmQ&riu=http%3a%2f%2fimage11.m1905.cn%2fuploadfile%2f2012%2f0904%2f20120904022120695.jpg&ehk=aaZeRwUFG81hZToxLIp3N0efnU4hRJqgZ4KDEtBYAmc%3d&risl=&pid=ImgRaw&r=0" >
 ---
 
 ## 博客小记（十六）

@@ -4,7 +4,19 @@
         <link>http://example.org/posts/</link>
         <description>All Posts | My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>niujixiang.s@qq.com (Qingm)</managingEditor>
-            <webMaster>niujixiang.s@qq.com (Qingm)</webMaster><lastBuildDate>Sun, 20 Aug 2023 12:34:57 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>niujixiang.s@qq.com (Qingm)</webMaster><lastBuildDate>Mon, 11 Sep 2023 09:56:59 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>学习网站合集</title>
+    <link>http://example.org/5th_post/</link>
+    <pubDate>Mon, 11 Sep 2023 09:56:59 &#43;0800</pubDate>
+    <author>Qingm</author>
+    <guid>http://example.org/5th_post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://img95.699pic.com/photo/50104/7100.jpg_wh300.jpg!/fh/300/quality/90" referrerpolicy="no-referrer">
+            </div>一、考研 1.官方指定网站：中国研究生招生信息网
+2.资料及信息获取（内容自行鉴别）
+序号 网站 简介 1 安心考研 考研网盘资料 2 金榜题名 考研网盘资料 3 考研院校库 可进行学校、专业检索，还可以查询考研日历，下载历年真题 4 考研帮 考研真题试卷下载 5 考研经验 查询备考经验方法 6 考研贴吧 心态交流 二、中小学 序号 网站 简介 1 国家中小学智慧教育平台 官方指定 2 电子教材 适合短期查阅或预复习 3 课程视频 查漏补缺 4 第一试卷网 刷题提分 5 心理健康 &hellip;&hellip;.. 6 学习up推荐 学习推荐 三、综合学习 国家智慧教育 中国大学MOOC 慕课网 B站 国图公开课 学堂在线 菜鸟教程 我要自学网 赛雷话金 四、文库 百度文库 豆丁网 第一范文网 考试酷 中国知网 道客巴巴 MBA智库 中国裁判文书网 爱问共享资料 ]]></description>
+</item>
+<item>
     <title>css动画练习</title>
     <link>http://example.org/4th_post/</link>
     <pubDate>Sun, 20 Aug 2023 12:34:57 &#43;0800</pubDate>
