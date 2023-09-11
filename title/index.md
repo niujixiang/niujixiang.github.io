@@ -1,6 +1,15 @@
 # 
 
 
+## 博客小记（十九）
+*date: 2023-09-11*
+
+最近玩的很开心的朋友呀启程回到了工作岗位，自己做了个倒计时也才发现网上预报名就在13天后，要继续打起精神学习⛽️。<br>
+（#偷偷截留下的欢声笑语）<br>
+<audio  controls="controls" src="/上花轿.m4a"></audio>
+
+---
+
 ## 博客小记（十八）
 *date: 2023-09-10*
 
@@ -20,6 +29,7 @@
 {{< bilibili BV1D34y1N7wL >}}
 
 <img src="https://ts1.cn.mm.bing.net/th/id/R-C.5335640180acc8b584235424e7dad694?rik=V4gorNj4rD%2fAmQ&riu=http%3a%2f%2fimage11.m1905.cn%2fuploadfile%2f2012%2f0904%2f20120904022120695.jpg&ehk=aaZeRwUFG81hZToxLIp3N0efnU4hRJqgZ4KDEtBYAmc%3d&risl=&pid=ImgRaw&r=0" >
+
 ---
 
 ## 博客小记（十六）

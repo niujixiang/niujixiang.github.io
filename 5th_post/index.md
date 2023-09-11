@@ -2,6 +2,9 @@
 
 
 ### 一、考研
+
+<iframe width="900px" height="600px" src="/html/倒计时动画/index.html" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 **1.官方指定网站：[中国研究生招生信息网](https://yz.chsi.com.cn/)**<br>
 2.资料及信息获取（内容自行鉴别）
 序号|网站|简介
