@@ -1,21 +1,7 @@
 # 
 
-# 建业生日整活➡️[图片](/img/IMG_6463.jpg)、[网页](/posts/建业生日/skystar.html)⬅️
-
-以下是素材：
-
-{{< figure src="/img/IMG_5113-tuya.jpg" >}}
-{{< figure src="/img/IMG_5114-tuya.jpg" >}}
-{{< figure src="/img/IMG_5115-tuya.jpg" >}}
-{{< figure src="/img/IMG_5116-tuya.jpg" >}}
-{{< figure src="/img/IMG_5117-tuya.jpg" >}}
-{{< figure src="/img/IMG_5118-tuya.jpg" >}}
-<div>
-<video src="/img/WTExported20220428201051296.mov" width="100%" height="auto" controls></video>
-</div>
-{{< figure src="/img/IMG_5357-tuya.jpg" >}}
-{{< figure src="/img/IMG_5359-tuya.jpg" >}}
-{{< figure src="/img/IMG_4919-tuya.jpg" >}}
-<video src="/img/9d32358aefa6b6f92d21f08a96fd63.mov" width="100%" height="auto" controls></video>
-
-
+一、实验室
+  1. [背景音乐](/321.html)
+  2. [yinyue](/video/kunzai.mp4)
+  3. 未完待续
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2070030604&auto=1&height=66"></iframe>
