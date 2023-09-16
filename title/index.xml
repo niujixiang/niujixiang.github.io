@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Titles on My New Hugo Site</title>
+    <link>http://example.org/title/</link>
+    <description>Recent content in Titles on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>niujixiang.s@qq.com (Qingm)</managingEditor>
+    <webMaster>niujixiang.s@qq.com (Qingm)</webMaster>
+    <lastBuildDate>Fri, 18 Aug 2023 21:52:00 +0800</lastBuildDate><atom:link href="http://example.org/title/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>备忘录</title>
+      <link>http://example.org/title/tittle2/</link>
+      <pubDate>Fri, 18 Aug 2023 21:52:00 +0800</pubDate>
+      <author>niujixiang.s@qq.com (Qingm)</author>
+      <guid>http://example.org/title/tittle2/</guid>
+      <description>一、网站相关 待补充
+二、学习相关 待补充
+三、技能相关 待补充
+四、常用项目 待补充</description>
+    </item>
+    
+    <item>
+      <title>日常小记（持续更新）</title>
+      <link>http://example.org/title/title1/</link>
+      <pubDate>Fri, 28 Jul 2023 21:52:00 +0800</pubDate>
+      <author>niujixiang.s@qq.com (Qingm)</author>
+      <guid>http://example.org/title/title1/</guid>
+      <description>博客小记（二十二） date: 2023-09-15
+读书真的是个快速提升自我认知的方式，刚好看到一本《认知觉醒》的书，发现正好对应我当下的困境。下意识的逃避困难，选择迁就本能脑；也明白了最快的学习方式是永远处在舒适区的边缘地带，将那些模糊的知识清晰化。其中有句话让我醍醐灌顶：多数人为了逃避真正的思考，愿意做任何事情。 博客小记（二十一） date: 2023-09-13
+tips：自我效能提升的方法
+成功经验：成功带来的获得感，以及方法和策略； 替代经验：榜样的示范和引导; 言语说服：他人给予的积极评价和肯定； 情绪唤起：情绪和生理状态将影响行为的预期水准； 合理归因；对成功失败的后期判断。 博客小记（二十） date: 2023-09-12
+看了些东西，听了些言论。突然就有一种危机感，二十年前不识字是文盲，二十年后那些只会一种语言的人大概率也会变成文盲（编程语言、第二语言、肢体语言等）。尤其是Ai的迅猛发展，如何使用语言进行创造也许会是下个世界窗口。
+博客小记（十九） date: 2023-09-11
+最近玩的很开心的朋友呀启程回到了工作岗位，自己做了个倒计时也才发现网上预报名就在13天后，要继续打起精神学习⛽️。
+（#偷偷截留下的欢声笑语）
+博客小记（十八） date: 2023-09-10
+我们不能要求大自然随时为我们展现它的美，只能奢望它展现美的时候，我们恰好在那儿。——【生命奇观】墨脱森林
+静下来的时候不妨看看大自然的神奇和灵动，类似的推荐有《地球脉动》、《蓝色星球》……
+博客小记（十七） date: 2023-08-25
+他预见过自己的死亡，和巨人同行过，也帮桃源镇重建，还用三年的苦力换一个美丽的相见。虽然那仍可能是个童话故事，但他真的抓到了一条大鱼。——成年人的浪漫《大鱼》
+博客小记（十六） date: 2023-08-18
+铃芽之旅并没有想象中的那么好看， 想看的话，可以点击《铃芽之旅》观看。
+博客小记（十五） date: 2023-08-17
+在hello talk上面聊天，男女关于彩礼对立进行辩论，结束后发现大部分人都倾向于不结婚，自我享乐。
+博客小记（十四） date: 2023-08-16
+不务正业的我。
+博客小记（十三） date: 2023-08-15
+第一天的html学习记录，打开可以看到概览，代码需要用 Vscode等工具来打开查看。
+博客小记（十二） date: 2023-08-14
+英语的重要性。开始学习html、css和js，看起来倒是蛮简单的。这个网站需要优化的地方很多，比如样式和内容折叠，动画也需要考虑一下。样式到时候整一个外联css文件link一下好了，但是还要弄选择器😂
+博客小记（十一） date: 2023-08-13
+GitHub上的网站访问速度越来越慢，于是新增远程仓库gitee方便国内访问。于是问题又一大堆， 还好已经处理好了。
+博客小记（其十） date: 2023-08-12
+骄傲的那个年代！
+博客小记（其九） date: 2023-08-11
+矫揉造作一下，每天我们都在经历着历史。阿富汗政变、俄乌战争，某国破产、某行信用危机，国内也总感觉不对味。 只知道内部竞争，为什么不想着探索宇宙的资源，推进产业和科技发展。推一下很久以前看的视频，虽是游戏但深度和 广度依然让我难以忘怀。
+博客小记（其八） date: 2023-08-10</description>
+    </item>
+    
+  </channel>
+</rss>
